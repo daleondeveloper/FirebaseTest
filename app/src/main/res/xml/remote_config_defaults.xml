@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>color</key>
+        <value>red</value>
+    </entry>
+<!--    <entry>-->
+<!--        <key>country</key>-->
+<!--        <value>false</value>-->
+<!--    </entry>-->
+</defaultsMap>
+    <!-- END xml_defaults -->

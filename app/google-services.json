@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1075762178496",
+    "project_id": "fedsunec-andrey",
+    "storage_bucket": "fedsunec-andrey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075762178496:android:a1cec60538cce1c5480025",
+        "android_client_info": {
+          "package_name": "com.daleondeveloper.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075762178496-918ikjc9fcpi8n1p7lffcirmb4lb6acm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc_jdF5tc58PLa2h4NaujvFOCb1_Cm_sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075762178496-918ikjc9fcpi8n1p7lffcirmb4lb6acm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075762178496:android:e3dd3ace13715376480025",
+        "android_client_info": {
+          "package_name": "com.daleondeveloper.testapllication2411"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075762178496-918ikjc9fcpi8n1p7lffcirmb4lb6acm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc_jdF5tc58PLa2h4NaujvFOCb1_Cm_sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075762178496-918ikjc9fcpi8n1p7lffcirmb4lb6acm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
